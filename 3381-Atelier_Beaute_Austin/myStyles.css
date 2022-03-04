@@ -1,0 +1,38 @@
+a {
+   color: white;
+}
+
+.atelier-austin-container {
+   margin: 0;
+   padding-bottom: 6rem;
+   background-color: black;
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.advertising-section {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.register-section {
+}
+
+.info-container {
+}
+
+.description-container {
+   width: 31rem;
+   text-align: center;
+}
+
+.date-container {
+   text-align: center;
+}
+
+.register-section {
+}
