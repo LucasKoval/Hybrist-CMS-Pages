@@ -981,3 +981,66 @@
       padding-right: 0;
    }
 }
+
+.atelier-austin-container {
+   margin: 0;
+   padding-top: 70px;
+   padding-bottom: 100px;
+   background-color: black;
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.advertising-section {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.logo-container {
+   width: 400px;
+   margin-top: 2rem;
+   margin-right: 5rem;
+}
+
+.description-container {
+   width: 475px;
+   text-align: center;
+}
+
+.date-container {
+   text-align: center;
+}
+
+.register-section {
+   width: 320px;
+   text-align: center;
+}
+
+.at-be-paragraph {
+   font-family: Helvetica, Open-Sans, sans-serif-light, sans-serif;
+   font-size: 14px;
+   line-height: 1.57;
+   font-weight: 300;
+   color: #b9b9b9;
+}
+
+.at-be-my-0 {
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+.at-be-mt-0 {
+   margin-top: 0;
+}
+
+.at-be-mb-0 {
+   margin-bottom: 0;
+}
+
+.at-be-gap-small {
+   margin-bottom: 20px;
+}
