@@ -994,33 +994,33 @@
    align-items: center;
 }
 
-.advertising-section {
+.atbe-advertising-section {
    display: flex;
    justify-content: center;
    align-items: center;
 }
 
-.logo-container {
-   width: 400px;
+.atbe-logo-container {
+   width: 420px;
    margin-top: 2rem;
    margin-right: 5rem;
 }
 
-.description-container {
-   width: 475px;
+.atbe-description-container {
+   width: 478px;
    text-align: center;
 }
 
-.date-container {
+.atbe-date-container {
    text-align: center;
 }
 
-.register-section {
+.atbe-register-section {
    width: 320px;
    text-align: center;
 }
 
-.at-be-paragraph {
+.atbe-paragraph {
    font-family: Helvetica, Open-Sans, sans-serif-light, sans-serif;
    font-size: 14px;
    line-height: 1.57;
@@ -1028,19 +1028,31 @@
    color: #b9b9b9;
 }
 
-.at-be-my-0 {
+.atbe-my-0 {
    margin-top: 0;
    margin-bottom: 0;
 }
 
-.at-be-mt-0 {
+.atbe-mt-0 {
    margin-top: 0;
 }
 
-.at-be-mb-0 {
+.atbe-mb-0 {
    margin-bottom: 0;
 }
 
-.at-be-gap-small {
+.atbe-gap-small {
    margin-bottom: 20px;
+}
+
+.atbe-h4 {
+   font-family: abchanel-pb-m;
+   font-size: 14px;
+   line-height: 20px;
+}
+
+.atbe-h6 {
+   font-family: abchanel-pb-m;
+   font-size: 12px;
+   line-height: 20px;
 }
