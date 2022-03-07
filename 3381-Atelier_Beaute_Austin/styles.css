@@ -982,7 +982,7 @@
    }
 }
 
-.atelier-austin-container {
+.atbe-atelier-austin-container {
    margin: 0;
    padding-top: 70px;
    padding-bottom: 100px;
@@ -995,6 +995,7 @@
 }
 
 .atbe-advertising-section {
+   width: 100%;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -1003,7 +1004,6 @@
 .atbe-logo-container {
    width: 420px;
    margin-top: 2rem;
-   margin-right: 5rem;
 }
 
 .atbe-logo-container img {
@@ -1011,8 +1011,13 @@
 }
 
 .atbe-description-container {
-   width: 478px;
+   width: auto;
+   max-width: 478px;
    text-align: center;
+}
+
+.atbe-info-container {
+   padding: 0 1.5rem 0 1rem;
 }
 
 .atbe-date-container {
@@ -1062,7 +1067,7 @@
 }
 
 @media screen and (max-width: 600px) {
-   .atelier-austin-container {
+   .atbe-atelier-austin-container {
       width: auto;
       flex-direction: column;
       padding-top: 0;
