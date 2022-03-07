@@ -1006,6 +1006,10 @@
    margin-right: 5rem;
 }
 
+.atbe-logo-container img {
+   width: 100%;
+}
+
 .atbe-description-container {
    width: 478px;
    text-align: center;
@@ -1055,4 +1059,48 @@
    font-family: abchanel-pb-m;
    font-size: 12px;
    line-height: 20px;
+}
+
+@media screen and (max-width: 600px) {
+   .atelier-austin-container {
+      width: auto;
+      flex-direction: column;
+      padding-top: 0;
+      margin: auto;
+   }
+
+   .atbe-advertising-section {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .atbe-logo-container {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+   }
+
+   .atbe-logo-container img {
+      width: 100%;
+   }
+
+   .atbe-description-container {
+      width: auto;
+      margin-bottom: 56px;
+   }
+
+   .atbe-info-container {
+      padding: 0 1.5rem;
+   }
+
+   .atbe-register-section {
+      width: auto;
+      padding: 0 3rem;
+   }
+
+   .atbe-register-section p {
+      padding: 0 1rem;
+   }
 }
