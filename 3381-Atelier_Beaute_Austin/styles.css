@@ -985,7 +985,7 @@
 .atbe-atelier-austin-container {
    margin: 0;
    padding-top: 70px;
-   padding-bottom: 100px;
+   padding-bottom: 70px;
    background-color: black;
    color: white;
    display: flex;
@@ -1017,7 +1017,7 @@
 }
 
 .atbe-info-container {
-   padding: 0 1.5rem 0 1rem;
+   padding: 0 1rem 0 2rem;
 }
 
 .atbe-date-container {
